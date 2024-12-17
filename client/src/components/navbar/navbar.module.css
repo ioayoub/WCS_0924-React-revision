@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: hotpink;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.logo {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  gap: 1em;
+}
+
+.element {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+}
